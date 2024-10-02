@@ -1,3 +1,5 @@
+Simulador de banco de dados, projetado para emular operações bancárias com saques, depósitos e gerenciamento de saldo. O sistema inclui a funcionalidades de login, cadastro de novos usuários, recuperação de senha e permite a geração de relatórios detalhados sobre as movimentações bancárias, por email.
+
 # Banking-Operations-Simulator
 
 -- Autenticação de Usuário -- 
