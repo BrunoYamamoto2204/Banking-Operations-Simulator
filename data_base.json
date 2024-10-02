@@ -1,0 +1,52 @@
+{
+    "customers": [
+        {
+            "firstname": "Joao",
+            "lastname": "Silva",
+            "username": "joaosilva",
+            "account_number": "653080591964",
+            "joaosilvapassword": "eeEE22??",
+            "joaosilvabalance": "1600.00"
+        },
+        {
+            "firstname": "Maria",
+            "lastname": "Santos",
+            "username": "mariasantos",
+            "account_number": "793052631861",
+            "mariasantospassword": "AAAaaa??22",
+            "mariasantosbalance": "1050.00"
+        },
+        {
+            "firstname": "Bruno ",
+            "lastname": "Silva",
+            "username": "b.jonson",
+            "account_number": "774433484297",
+            "b.jonsonpassword": "eeEE??22",
+            "b.jonsonbalance": "2999.00"
+        },
+        {
+            "firstname": "d",
+            "lastname": "vc",
+            "username": "d",
+            "account_number": "003876357230",
+            "dpassword": "eeEE??22",
+            "dbalance": 1000
+        },
+        {
+            "firstname": "jonson jonson",
+            "lastname": "jonson",
+            "username": "jonson.j",
+            "account_number": "201424387921",
+            "jonson.jpassword": "eeEE22??",
+            "jonson.jbalance": 1000
+        },
+        {
+            "firstname": "c",
+            "lastname": "c",
+            "username": "c.c",
+            "account_number": "253320769968",
+            "c.cpassword": "eeEE??22",
+            "c.cbalance": "1500.00"
+        }
+    ]
+}
